@@ -1,4 +1,10 @@
-### Hi there 👋
+### Saudações / Greetings 😄
+
+```
+Rafael Romani
+
+Buscando a mudança de area e explorando o mundo do desenvolvimento em Python.
+Seeking career change and exploring the world of Python development.
 
 <!--
 **RomaniRR/RomaniRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
